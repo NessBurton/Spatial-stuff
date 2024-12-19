@@ -5,8 +5,8 @@
 
 ### directories ----------------------------------------------------------------
 
-dirWork <- "C:/Users/vbu/OneDrive - the Woodland Trust/Data-analysis/Spatial/"
-dirData <- paste0("C:/Users/vbu/OneDrive - the Woodland Trust/Data-analysis/Data-raw/")
+dirWork <- "C:/Users/vbu/OneDrive - the Woodland Trust/Data-analysis/Spatial-stuff/"
+dirData <- paste0(dirWork,"data-raw/")
 dirScratch <- paste0(dirWork,"data-scratch/")
 dirOut <- paste0(dirWork, "data-out/")
 dirFigs <- paste0(dirWork, "figures/")
